@@ -1,3 +1,5 @@
 foto
 mapa
 video
+
+Usar el drone
